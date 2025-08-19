@@ -1,0 +1,6 @@
+@SegundoCuatri1_HostAddress = http://localhost:5105
+
+GET {{SegundoCuatri1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

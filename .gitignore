@@ -1,0 +1,27 @@
+
+# Archivos de Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+
+# Compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuraciones locales
+*.local.json
+*.userosscache
+*.dbmdl
+
+# Archivos de IIS Express
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
